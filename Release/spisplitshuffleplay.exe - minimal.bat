@@ -1,0 +1,1 @@
+start spisplitshuffleplay.exe "D:\oifii-org\httpdocs\ha-org\had\dj-oifii\raveaudio_wav\dj-oifii_minimal-deep-electro-house-techno(beat-offset-8min08sec).wav" 1.0 600.0 
